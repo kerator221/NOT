@@ -1,0 +1,35 @@
+h1 {
+	margin-left: 500px;
+	color: #7B68EE;
+	font-size: 35px;
+}
+
+html {
+	background: #FFFFF0;
+}
+p {
+	font-family: system;
+	font-size: 24px;
+}
+hr {
+	color: red;
+}
+video {
+	width: 458px;
+	height: 380px;
+}
+a {
+	color: #1E90FF;
+	margin-left: 10px;
+	font-size: 22px;
+}
+span {
+	font-size: 22px;
+}
+video {
+	margin-left: 30px;
+}
+h3 {
+	margin-left: 30px;
+}
+
